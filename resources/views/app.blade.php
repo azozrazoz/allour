@@ -23,7 +23,7 @@
     </main>
 
     <footer>
-        <p>copyright zoostore.com 2022</p>
+        <p>copyright allour.org 2022</p>
     </footer>
 </body>
 </html>
